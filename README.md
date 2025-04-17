@@ -1,4 +1,4 @@
-# Data-Analyst-Project7
+# Data-Analyst-InternShip=Project7
 
 # Task 7: Sales Summary with MySQL and Python
 
